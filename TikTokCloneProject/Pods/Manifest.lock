@@ -1,0 +1,20 @@
+PODS:
+  - ASPVideoPlayer (6.1.2)
+  - MarqueeLabel (4.3.0)
+
+DEPENDENCIES:
+  - ASPVideoPlayer
+  - MarqueeLabel
+
+SPEC REPOS:
+  trunk:
+    - ASPVideoPlayer
+    - MarqueeLabel
+
+SPEC CHECKSUMS:
+  ASPVideoPlayer: 70215f5b4cfbf33614548ee56a67290f640023d0
+  MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
+
+PODFILE CHECKSUM: b5d3fbf819bdc686c3522a596a5099769978ffcd
+
+COCOAPODS: 1.11.3
