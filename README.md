@@ -1,3 +1,3 @@
-# iOS TikTokClone made by Imen Mahjoub
+# iOS Home Screen cloning of TikTok app made by Imen Mahjoub
 
 
